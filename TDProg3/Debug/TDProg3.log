@@ -1,0 +1,9 @@
+﻿  guerrier.cpp
+  mage.cpp
+  main.cpp
+C:\Users\k.yang\source\repos\TDProg3\TDProg3\TDProg3\main.cpp(23,6): warning C4101: 'val' : variable locale non référencée
+  personnage.cpp
+C:\Users\k.yang\source\repos\TDProg3\TDProg3\TDProg3\personnage.cpp(56,31): warning C4018: '<=' : incompatibilité signed/unsigned
+  voleur.cpp
+  Génération de code en cours...
+  TDProg3.vcxproj -> C:\Users\k.yang\source\repos\TDProg3\TDProg3\Debug\TDProg3.exe
